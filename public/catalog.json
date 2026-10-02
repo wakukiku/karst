@@ -1,0 +1,59 @@
+{
+  "id": "karst",
+  "name": "КАРСТ",
+  "description": "Снаряжение, которое берёт на себя лишний вес.",
+  "products": [
+    {
+      "id": "r1",
+      "name": "Рюкзак «Перевал 38»",
+      "category": "Рюкзаки",
+      "price": 12900,
+      "subtitle": "38 л · 940 г · ripstop",
+      "image": "assets/pack.jpg",
+      "weight": 940,
+      "role": "pack",
+      "stock": 12,
+      "material": "Нейлон ripstop",
+      "size": "38 л"
+    },
+    {
+      "id": "r2",
+      "name": "Палатка «Грань 2»",
+      "category": "Укрытие",
+      "price": 24900,
+      "subtitle": "2 места · 1 650 г · 3 сезона",
+      "image": "assets/tent.jpg",
+      "weight": 1650,
+      "role": "shelter",
+      "stock": 6,
+      "material": "Силиконизированный нейлон",
+      "size": "2 места"
+    },
+    {
+      "id": "r3",
+      "name": "Спальник «Ноль»",
+      "category": "Сон",
+      "price": 16900,
+      "subtitle": "Комфорт 0 °C · 870 г",
+      "image": "assets/sleep.jpg",
+      "weight": 870,
+      "role": "sleep",
+      "stock": 9,
+      "material": "Пух 700 FP",
+      "size": "Длина 210 см"
+    },
+    {
+      "id": "r4",
+      "name": "Бутылка «Ручей»",
+      "category": "Аксессуары",
+      "price": 2400,
+      "subtitle": "Алюминий · 750 мл · 160 г",
+      "image": "assets/bottle.jpg",
+      "weight": 160,
+      "role": "water",
+      "stock": 25,
+      "material": "Алюминий",
+      "size": "750 мл"
+    }
+  ]
+}

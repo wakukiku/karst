@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Russo One";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/Russo-One-0.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Alegreya Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/Alegreya-Sans-0.ttf) format("truetype");
+}
